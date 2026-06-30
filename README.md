@@ -1,7 +1,21 @@
-# SAMBA: Scattering-Guided Bidirectional Mamba for SAR Target Interpretation
+<h1 align="center">SAMBA: Scattering-Guided Bidirectional Mamba for SAR Target Interpretation</h1>
 
-[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b?style=flat-square)](https://arxiv.org/abs/xxxx.xxxxx)
-[![Code Status](https://img.shields.io/badge/Code-Coming%20Soon-yellow?style=flat-square)]()
+<p align="center">
+  Author One<sup>1</sup>, Author Two<sup>1</sup>, Author Three<sup>1</sup>, Author Four<sup>2</sup>, Author Five<sup>1</sup>, Author Six<sup>1</sup>, Author Seven<sup>1</sup>
+</p>
+
+<p align="center">
+  <sup>1</sup>Your Affiliation &nbsp;&nbsp; <sup>2</sup>Co-author Affiliation
+</p>
+
+<p align="center">
+  <a href="https://arxiv.org/abs/xxxx.xxxxx">
+    <img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b?style=flat-square" alt="arXiv">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Code-Coming%20Soon-yellow?style=flat-square" alt="Code Status">
+  </a>
+</p>
 
 ## 📢 Project Status
 
