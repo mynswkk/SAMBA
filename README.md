@@ -1,11 +1,11 @@
 <h1 align="center">SAMBA: Scattering-Guided Bidirectional Mamba for SAR Target Interpretation</h1>
 
 <p align="center">
-  Author One<sup>1</sup>, Author Two<sup>1</sup>, Author Three<sup>1</sup>, Author Four<sup>2</sup>, Author Five<sup>1</sup>, Author Six<sup>1</sup>, Author Seven<sup>1</sup>
+  Ke Wang, Xiaoyi Pan, Zhaoyu Gu, Xiaofeng Ai, Zhiming Xu, Feng Zhao, Shunping Xiao
 </p>
 
 <p align="center">
-  <sup>1</sup>Your Affiliation &nbsp;&nbsp; <sup>2</sup>Co-author Affiliation
+  National University of Defense Technology
 </p>
 
 <p align="center">
