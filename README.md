@@ -43,7 +43,7 @@ Full citation information will be updated once the paper is officially published
 ```bibtex
 @article{samba2026,
   title={SAMBA: Scattering-Guided Bidirectional Mamba for SAR Target Interpretation},
-  author={Your Name and Co-author Names},
+  author={Ke Wang and Xiaoyi Pan and Zhaoyu Gu and Xiaofeng Ai and Zhiming Xu and Feng Zhao and Shunping Xiao},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2026}
 }
