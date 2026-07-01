@@ -8,9 +8,9 @@
   National University of Defense Technology
 </p>
 
-<p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx">
-    <img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b?style=flat-square" alt="arXiv">
+<p align="center"> 
+  <a href="https://arxiv.org/abs/2606.31668">
+    <img src="https://img.shields.io/badge/arXiv-2606.31668-b31b1b?style=flat-square" alt="arXiv">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Code-Coming%20Soon-yellow?style=flat-square" alt="Code Status">
@@ -41,9 +41,12 @@ Thank you for your attention and interest in this work. Feel free to **Star** th
 ## Citation
 Full citation information will be updated once the paper is officially published.
 ```bibtex
-@article{samba2026,
-  title={SAMBA: Scattering-Guided Bidirectional Mamba for SAR Target Interpretation},
-  author={Ke Wang and Xiaoyi Pan and Zhaoyu Gu and Xiaofeng Ai and Zhiming Xu and Feng Zhao and Shunping Xiao},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2026}
+@misc{wang2026sambascatterguidedmaskedbidirectional,
+      title={SAMBA: A Scatter-Guided Masked Bidirectional Mamba Foundation Model for SAR Target Recognition}, 
+      author={Ke Wang and Xiaoyi Pan and Zhaoyu Gu and Xiaofeng Ai and Zhiming Xu and Feng Zhao and Shunping Xiao},
+      year={2026},
+      eprint={2606.31668},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.31668}, 
 }
