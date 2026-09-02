@@ -1,4 +1,4 @@
-<h1 align="center">SAMBA: Scattering-Guided Bidirectional Mamba for SAR Target Interpretation</h1>
+<h1 align="center">SAMBA: Scattering-Guided Bidirectional Mamba for SAR Target Recognition</h1>
 
 <p align="center">
   Ke Wang, Xiaoyi Pan, Zhaoyu Gu, Xiaofeng Ai, Zhiming Xu, Feng Zhao, Shunping Xiao
